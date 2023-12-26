@@ -1,12 +1,6 @@
-<center>
-Qisong He
-</center>
-
+## Qisong He
 ------
-
-<center> 
-Autonomous Driving Research Assistant | [ISCAS](http://www.iscas.ac.cn/) 👋
-</center>
+### Autonomous Driving Research Assistant | [ISCAS](http://www.iscas.ac.cn/) 👋
 
 Here are some ideas to get you started:
 
