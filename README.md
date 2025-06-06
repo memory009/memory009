@@ -1,9 +1,11 @@
 ## Qisong He
 
 ### Autonomous Driving Research Assistant | [ISCAS](http://www.iscas.ac.cn/) 👋
+### Master of Philosophy at the University of Liverpool | [ACPS](https://cgi.csc.liv.ac.uk/~acps/home/)
 
-- 🔭 I’m currently working at the **Institute of Software, Chinese Academy of Sciences** | the State Key Laboratory of Computer Science.
-- 🌱 My research primarily focuses on the adversarial robustness of automatic driving recognition systems.
+- 🔭 I am a Master of Philosophy (MPhil) student in computer science at the **University of Liverpool**.
+- 🐝 I’m currently working at the **Institute of Software, Chinese Academy of Sciences** | the State Key Laboratory of Computer Science.
+- 🌱 My research is primarily centered on developing risk-averse reinforcement learning methods for perception in autonomous driving systems.
 
 - 📫 Please contact me at qisong.he###liverpool.ac.uk.com
 
